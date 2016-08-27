@@ -1,0 +1,13 @@
+{
+    "name": "favez/template",
+    "description": "A lightweight and mostly native php template engine.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tyurderi",
+            "email": "tyuderi@yahoo.de"
+        }
+    ],
+    "require": {}
+}
